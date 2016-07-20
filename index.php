@@ -4,11 +4,11 @@
 	*
 	*	@Project	-> PHP , Class dealing with files ;
 	*
-	*	@Author		-> AmineDine ;
+	*	@Author		-> Habib Bentsair ;
 	*
-	*	@Mail		-> Minousta@outlook.fr ;
+	*	@Mail		-> hebtsr@gmail.com ;
 	*
-	*	@Facebook	-> http://www.facebook.com/aminebtrs ;
+	*	@Facebook	-> https://www.facebook.com/Hb.Btsr ;
 	*
 	*/
 
